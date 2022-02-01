@@ -1,0 +1,2 @@
+# Navajo-Nursery-App
+The target audience for this app are the Navajo children from the ages of 2 to 8 years old. The Navajo language is a vital resource in the Navajo culture, so this app will be developed for the children that do not have the luxury to learn their language. Navajo words will be matched with images to depict the meaning of the word. This app can be used for beginners wanting to learn a bit of Navajo as well. 
